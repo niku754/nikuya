@@ -1,0 +1,2 @@
+# nikuya
+Yandex browser blocker
